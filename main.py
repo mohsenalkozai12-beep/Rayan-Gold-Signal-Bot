@@ -84,4 +84,5 @@ def analyze_gold():
         print("No new signal")
 
 if __name__ == "__main__":
+    send_message("RAYAN GOLD SIGNAL BOT is ONLINE! 🟢")
     analyze_gold()
